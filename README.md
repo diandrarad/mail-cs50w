@@ -26,7 +26,7 @@ To use the email client:
 1. Clone the repository from GitHub to your local machine.
 2. Create a virtual environment and install the required dependencies from the requirements.txt file.
 3. In the Django project directory, run the following command to start the development server:
-    python manage.py runserver
+```python manage.py runserver```
 4. Navigate to the email client application at http://localhost:8000/.
 
 # Credits
