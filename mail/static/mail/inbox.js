@@ -60,6 +60,7 @@ function load_mailbox(mailbox) {
   // Hide other views
   document.querySelector('#compose-view').style.display = 'none';
   // Show the mailbox and mailbox name
+  document.querySelector('#emails-view').style.display = 'block';
   document.querySelector('#emails-view').innerHTML = `<h3>${mailbox.charAt(0).toUpperCase() + mailbox.slice(1)}</h3>`;
 
   // Make a GET request to the server to get the emails for the specified mailbox
