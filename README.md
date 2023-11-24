@@ -1,5 +1,7 @@
 # Email Client Single-Page-App using Django
 
+![Screenshot](screenshot.webp)
+
 ### [Video Demo](https://youtu.be/9vE_xOXLLrk)
 
 This is a single-page-app email client project built with JavaScript, HTML, CSS, and Django. The application allows users to send and receive emails, archive and unarchive them, reply to emails, and mark them as read or unread.
