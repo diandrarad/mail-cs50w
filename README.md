@@ -1,6 +1,6 @@
 # Email Client Single-Page-App using Django
 
-![Screenshot](screenshot.webp)
+![Screenshot](demo.gif)
 
 ### [Video Demo](https://youtu.be/9vE_xOXLLrk)
 
